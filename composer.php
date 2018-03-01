@@ -1,6 +1,6 @@
 
 {
-    "name": "pankaj-12/timezones",
+    "name": "pankaj-12/packages",
     "description": "Demo-package to show time",
     "authors": [
         {
