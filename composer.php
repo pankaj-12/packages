@@ -1,6 +1,6 @@
 
 {
-    "name": "pankaj-12/packages",
+    "name": "packages",
     "description": "Demo-package to show time",
     "type": "library",
     "keywords": ["log","logging"],
